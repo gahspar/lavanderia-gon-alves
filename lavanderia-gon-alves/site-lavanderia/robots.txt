@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Projeto demonstrativo com dados mockup. Remova este bloqueio na versão oficial.

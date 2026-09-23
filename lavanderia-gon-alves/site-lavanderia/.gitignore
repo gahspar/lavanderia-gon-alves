@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+.sites-runtime/
+site-archive.tar.gz
+npm-debug.log*

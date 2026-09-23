@@ -1,0 +1,7 @@
+.git/
+.openai/
+.sites-runtime/
+dist/
+site-archive.tar.gz
+server.mjs
+DEPLOY_VERCEL.md
